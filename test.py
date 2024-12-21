@@ -6,3 +6,4 @@ else:
     print("else")
 print("Hi")
 print("Random")
+print("*****")
