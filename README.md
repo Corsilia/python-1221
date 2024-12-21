@@ -1,5 +1,5 @@
 # Python1221 課程
-
+#遠端衝突
 ```
 git clone
 git add
